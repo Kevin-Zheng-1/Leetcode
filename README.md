@@ -3,7 +3,7 @@
 ## Algorithms
 
 * [Bit Manipulation](https://github.com/kamyu104/LeetCode-Solutions#bit-manipulation)
-* [Array](https://github.com/kamyu104/LeetCode-Solutions#array)
+* [Array](https://github.com/Kevin-Zheng-1/Leetcode#array)
 * [String](https://github.com/kamyu104/LeetCode-Solutions#string)
 * [Linked List](https://github.com/kamyu104/LeetCode-Solutions#linked-list)
 * [Stack](https://github.com/kamyu104/LeetCode-Solutions#stack)
@@ -35,4 +35,5 @@
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    |Note | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
-0001 | [Two Sum](https://leetcode.com/problems/single-number/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/Array/0001.%20Two%20Sum.py) | _O(n)_       | _O(n)_          | Easy         |Hash Table|
+0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/Array/0001.%20Two%20Sum.py) | _O(n)_       | _O(n)_          | Easy         |Hash Table|
+0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/Array/0004.%20Median%20of%20Two%20Sorted%20Arrays.py) | _O(log(min(m,n)))_       | _O(1)_          | Hard         |Binary Search|
