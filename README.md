@@ -3,8 +3,8 @@
 ## Algorithms
 
 * [Array](https://github.com/Kevin-Zheng-1/Leetcode#array)
-* [String](https://github.com/kamyu104/LeetCode-Solutions#string)
-* [Linked List](https://github.com/kamyu104/LeetCode-Solutions#linked-list)
+* [String](https://github.com/Kevin-Zheng-1/Leetcode#string)
+* [Linked List](https://github.com/Kevin-Zheng-1/Leetcode#linked-list)
 
 ## Database
 
