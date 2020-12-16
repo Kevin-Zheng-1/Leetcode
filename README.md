@@ -21,6 +21,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.py) | _O(n)_       | _O(min(m,n)_          | Medium         |Sliding Window|
 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0005.%20Longest%20Palindromic%20Substring.py) | _O(n^2)_       | _O(n^2)_          | Medium         |Dynamic Programming|
+0006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0006.%20ZigZag%20Conversion.py) | _O(n)_       | _O(n)_          | Medium         |String|
 
 ## Linked List
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    |Note | 
