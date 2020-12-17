@@ -23,6 +23,7 @@
 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0005.%20Longest%20Palindromic%20Substring.py) | _O(n^2)_       | _O(n^2)_          | Medium         |Dynamic Programming|
 0006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0006.%20ZigZag%20Conversion.py) | _O(n)_       | _O(n)_          | Medium         |String|
 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0007.%20Reverse%20Integer.py) | _O(n)_       | _O(1)_          | Easy         |Math|
+0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0008.%20String%20to%20Integer%20(atoi).py) | _O(n)_       | _O(1)_          | Medium         |Math|
 
 ## Linked List
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    |Note | 
