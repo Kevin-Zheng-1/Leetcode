@@ -5,6 +5,7 @@
 * [Array](https://github.com/Kevin-Zheng-1/Leetcode#array)
 * [String](https://github.com/Kevin-Zheng-1/Leetcode#string)
 * [Linked List](https://github.com/Kevin-Zheng-1/Leetcode#linked-list)
+* [Math](https://github.com/Kevin-Zheng-1/Leetcode#math)
 
 ## Database
 
@@ -29,3 +30,8 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    |Note | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/LinkedList/0002.%20Add%20Two%20Numbers.py) | _O(max(m,n))_       | _O(max(m,n))_          | Medium         |Math|
+
+## Math
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    |Note | 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
+0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/Math/0009.%20Palindrome%20Number.py) | _O(log(n))_       | _O(1)_          | Easy         |Math|
