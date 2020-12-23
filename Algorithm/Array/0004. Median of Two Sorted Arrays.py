@@ -12,9 +12,11 @@ class Solution:
             raise ValueError
 
         imin, imax, half_len = 0, m, (m + n + 1) // 2
+        
         while imin <= imax:
             i = (imin + imax) // 2
             j = half_len - i
+            
             if i < m and nums2[j-1] > nums1[i]:
                 # i is too small, must increase it
                 imin = i + 1
@@ -36,3 +38,6 @@ class Solution:
                 else: min_of_right = min(nums1[i], nums2[j])
 
                 return (max_of_left + min_of_right) / 2.0
+
+# 两个数组都对半分开，利用二分法，保证其中一个数组的后半边的首个数字要大于另外一个数组前半边的最后一个数字
+# 同时要考虑边界条件的判断
