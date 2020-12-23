@@ -16,3 +16,5 @@ class Solution:
                 return [d[m], i]
             else:
                 d[n] = i
+
+# 字典存放遍历过的数字以及对应的index                
