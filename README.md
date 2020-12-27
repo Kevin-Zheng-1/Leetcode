@@ -39,3 +39,4 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/Math/0009.%20Palindrome%20Number.py) | _O(log(n))_       | _O(1)_          | Easy         |Math|
 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/Math/0012.%20Integer%20to%20Roman.py) | _O(1)_       | _O(1)_          | Medium         |String|
+0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/Math/0013.%20Roman%20to%20Integer.py) | _O(1)_       | _O(1)_          | Easy         |String|
