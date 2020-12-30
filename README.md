@@ -28,6 +28,7 @@
 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0007.%20Reverse%20Integer.py) | _O(n)_       | _O(1)_          | Easy         |Math|
 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0008.%20String%20to%20Integer%20(atoi).py) | _O(n)_       | _O(1)_          | Medium         |Math|
 0010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0010.%20Regular%20Expression%20Matching.py) | _O(mn)_       | _O(1)_          | Hard         |Dynamic Programming|
+0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0014.%20Longest%20Common%20Prefix.py) |        |           | Easy         |Min/Max|
 
 ## Linked List
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    |Note | 
