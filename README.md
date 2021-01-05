@@ -33,7 +33,7 @@
 0010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0010.%20Regular%20Expression%20Matching.py) | _O(mn)_       | _O(1)_          | Hard         |Dynamic Programming|
 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0014.%20Longest%20Common%20Prefix.py) |        |           | Easy         |Min/Max|
 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number.py) |        |           | Medium         |Recursion|
-0072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0072.%20Edit%20Distance.py) | _O(mn)_       | _O(mn)          | Hard        |Dynamic Programming|
+0072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0072.%20Edit%20Distance.py) | _O(mn)_       | _O(mn)_          | Hard        |Dynamic Programming|
 
 
 ## Linked List
