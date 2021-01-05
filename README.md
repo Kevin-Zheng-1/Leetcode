@@ -34,6 +34,7 @@
 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0014.%20Longest%20Common%20Prefix.py) |        |           | Easy         |Min/Max|
 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number.py) |        |           | Medium         |Recursion|
 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0072.%20Edit%20Distance.py) | _O(mn)_       | _O(mn)_          | Hard        |Dynamic Programming|
+0161 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/String/0161.%20One%20Edit%20Distance.py) | _O(n)_       | _O(n)_          | Medium        |One Pass|
 
 
 ## Linked List
