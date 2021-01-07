@@ -19,6 +19,7 @@
 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/Array/0011.%20Container%20With%20Most%20Water.py) | _O(n)_       | _O(1)_          | Medium         |Two Pointers|
 0015 | [3Sum](https://leetcode.com/problems/3sum/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/Array/0015.%203Sum.py) | _O(n^2)_       | _O(n)_          | Medium         |Two Pointers|
 0016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/Array/0016.%203Sum%20Closest.py) | _O(n^2)_       | _O(n)_          | Medium         |Two Pointers|
+0018 | [4Sum](https://leetcode.com/problems/4sum/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/Array/0018.%204Sum.py) | _O(n^(k-1))_       | _O(n)_          | Medium         |Recursion|
 
 
 
