@@ -45,6 +45,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/LinkedList/0002.%20Add%20Two%20Numbers.py) | _O(max(m,n))_       | _O(max(m,n))_          | Medium         |Math|
 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/LinkedList/0019.%20Remove%20Nth%20Node%20From%20End%20of%20List.py) | _O(n)_       | _O(n)_          | Medium         |Two Pointers|
+0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python3](https://github.com/Kevin-Zheng-1/Leetcode/blob/main/Algorithm/LinkedList/0021.%20Merge%20Two%20Sorted%20Lists.py) | _O(n+m)_       | _O(1)_          | Easy         |Recursion|
 
 
 ## Math
